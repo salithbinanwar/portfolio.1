@@ -1,0 +1,29 @@
+body{
+    background-image: url(../images/backgound\ image.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+}
+.portBody{
+    margin: 5%;
+    border-radius: 50px;
+    background-color: #222222;
+}
+.desButton{
+    margin-right: 20px;
+    padding-right: 4%;
+    padding-left: 4%;
+    border-radius: 50px;
+}
+.myImg{
+   border-radius: 300px;
+  padding: 10px;
+   border-style: solid;
+    background-color:#444444;
+}
+.whatIdo{
+    color:white;
+}
+.contacts{
+    color: white;
+}
